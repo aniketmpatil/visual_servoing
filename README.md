@@ -6,4 +6,8 @@ This package spawns a robot with a revolute-revolute joint configuration and an 
 
 Note: This repository is a ROS Package implemented using ROS Noetic and Gazebo 11. Clone this into the `src` folder of your ROS workspace and then build from inside the workspace folder.
 
-<img src="docs/robot_object_config.png" width=400/>
+<img src="docs/robot_object_config.png" width=500/>
+
+---
+## Output Video
+<img src="docs/output_video.gif" width=500/>
